@@ -1,0 +1,62 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+
+}
+
+.row {
+    margin: 14px;
+}
+
+.card {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+blockquote {
+    text-align: center;
+}
+
+.card-body {
+    padding-top: 100px;
+    padding: 100px;
+}
+
+.table-title {
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+form {
+    padding: 20px;
+}
+
+nav ul li a:hover {
+    background-color: pink;
+}
+
+.contact-form {
+    margin: auto;
+    padding: 18px;
+    width: 75%;
+
+}
+
+.contact-title {
+    text-align: center;
+    padding: 20px;
+}
+
+.zipcode {
+    padding-top: 20px;
+}
